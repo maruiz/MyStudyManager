@@ -43,3 +43,5 @@ gem 'devise', '3.0.0.rc'
 
 # Annotate models
 gem 'annotate', '~> 2.6.5'
+
+gem 'rake', '~> 10.3.2'
